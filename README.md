@@ -1,7 +1,7 @@
 # Gennalyn Individual Github Page
 
 
-## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
+## [Week 0 - Test Prep, Data Structures Project, Create Task Project] - [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/issues/1)
 
 | Github Pages | Jekyll Page (with content and links)| 
 | --- | --- |
