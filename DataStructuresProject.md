@@ -2,13 +2,10 @@
 ### (code snippets for learning, links to Github code, replit runtime)
 
 
+
 | Task | Replit Runtime Link | Code Commit | 
 | --- | --- | --- |
-| Menu and sub-menu | [Replit runtime](https://replit.com/@GennalynBongola/menu) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/blob/main/templates/menu.py) |
-| Swap | [Replit runtime](https://replit.com/@GennalynBongola/Swap) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/blob/main/templates/swap.py) |
-| Keypad | [Replit runtime](https://replit.com/@GennalynBongola/keyboard#main.py) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/commit/99a62f004c33f5790c295b3052efc2dd46ad90c7) |
-| Christmas Tree | [Replit runtime](https://replit.com/@GennalynBongola/Tree#main.py) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/blob/main/templates/Tree.py) |
-| Animation | [Replit runtime](https://replit.com/@GennalynBongola/Boat-Animation-1#main.py) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/blob/main/templates/animation.py) |
+| Menu and sub-menu | [Replit runtime](https://replit.com/@GennalynBongola/Week-0#main.py) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/blob/main/templates/menu.py) |
 
 ![image](https://user-images.githubusercontent.com/89223650/157573109-d423a806-cba4-4b01-95a5-68252827e6bc.png)
 
