@@ -10,12 +10,11 @@ main_menu = [
     ["Swap", "swap.py"],
     ["Tree", "Tree.py"],
     ["Boat", "animation.py"],
-    ["Keyboard", "keypad.py"],
 ]
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Funcy", "tree.py"],
+    ["Keypad", "matrix.py"],
 ]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
