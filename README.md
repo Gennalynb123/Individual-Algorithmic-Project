@@ -6,7 +6,7 @@
 | Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/index) |
 | InfoDB lists | Jekyll Page | 
 | InfoDB Loops | Jekyll Page |
-| Fibonacci | Jekyll Page |
+| Fibonacci | Jekyll Page 
 
 <br>
 
