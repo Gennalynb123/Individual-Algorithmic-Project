@@ -5,8 +5,7 @@
 | Github Pages | Jekyll Page (with content and links)| 
 | --- | --- |
 | Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/TestPrep2) |
-| InfoDB Lists | Jekyll Page | 
-| InfoDB Loops | Jekyll Page |
+| InfoDB Lists/InfoDB Loops | Jekyll Page | 
 | Fibonnachi | Jekyll Page |
 
 <br>
