@@ -7,4 +7,4 @@
 | Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/TestPrep2) |
 | InfoDB Lists | Jekyll Page | 
 | InfoDB Loops | Jekyll Page |
-| Fibonnachi | Jeckyll Page |
+| Fibonnachi | Jekyll Page |
