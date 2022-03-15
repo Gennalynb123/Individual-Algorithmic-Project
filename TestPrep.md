@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Week 0 - Test Prep Study
 ### (5.1-5.2 Notes, Github Actions)
 
