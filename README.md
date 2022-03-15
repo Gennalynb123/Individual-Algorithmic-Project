@@ -1,12 +1,6 @@
 # Gennalyn Individual Github Page
 
-## [Week 1 - Lists and Loops] - Review Ticket
-| Github Pages | Jekyll Page (with content and links)| 
-| --- | --- |
-| Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/index) |
-| InfoDB lists | Jekyll Page | 
-| InfoDB Loops | Jekyll Page |
-| Fibonacci | Jekyll Page 
+
 
 <br>
 
