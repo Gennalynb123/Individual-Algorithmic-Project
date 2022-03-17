@@ -1,4 +1,4 @@
-# Gennalyn Individual Github Page
+## Timebox
 
 ## [Week 1 - Lists and Loops] - [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/issues/2)
 
