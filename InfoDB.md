@@ -1,6 +1,5 @@
 {% include navigation.html %}
 
-##InfoDB Lists and Loops
 
 | Task | Replit Runtime Link | Code Commit | 
 | --- | --- | --- |
