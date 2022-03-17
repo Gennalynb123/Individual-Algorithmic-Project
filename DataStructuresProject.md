@@ -9,6 +9,9 @@
 | Menu and sub-menu | [Replit runtime](https://replit.com/@GennalynBongola/Week-0#main.py) | [Commit](https://github.com/Gennalynb123/Individual-Algorithmic-Project/commit/f2275dcc0255913e01eb145bd97a2b7243de1691) |
 
 
+{% include DataStructuresProject.html %}
+
+
 ![image](https://user-images.githubusercontent.com/89223650/157573109-d423a806-cba4-4b01-95a5-68252827e6bc.png)
 
 ![image](https://user-images.githubusercontent.com/89223650/157573195-1af01281-15a6-4eb0-8fe8-57ac4552dc7f.png)
