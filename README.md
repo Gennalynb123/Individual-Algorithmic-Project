@@ -10,6 +10,7 @@
 | Select your own Math function. Write it in Imperative and OOP form | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/math) |
 | Palindrome | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/palindrome) | 
 
+<br>
 
 ## [Week 1 - Lists and Loops] - [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/issues/2)
 
