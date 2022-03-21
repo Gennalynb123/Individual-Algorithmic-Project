@@ -1,5 +1,13 @@
 ## Timebox
 
+## [Week 2 - Classy Functions] - Review Ticket
+
+| Github Pages | Jekyll Page (with content and links)| 
+| --- | --- |
+| Test Prep | Jekyll Page |
+|  |  | 
+|  |  |
+
 ## [Week 1 - Lists and Loops] - [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/issues/2)
 
 | Github Pages | Jekyll Page (with content and links)| 
