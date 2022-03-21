@@ -5,7 +5,7 @@
 | Github Pages | Jekyll Page (with content and links)| 
 | --- | --- |
 | Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/TestPrep3) |
-|  |  | 
+| Palindrome | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/palindrome) | 
 |  |  |
 
 ## [Week 1 - Lists and Loops] - [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/issues/2)
