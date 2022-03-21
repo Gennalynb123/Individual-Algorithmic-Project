@@ -4,7 +4,7 @@
 
 | Github Pages | Jekyll Page (with content and links)| 
 | --- | --- |
-| Test Prep | Jekyll Page |
+| Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/TestPrep3) |
 |  |  | 
 |  |  |
 
