@@ -51,13 +51,13 @@ Essential Knowledge:
 
 ### GitHub Actions:
 **5.5**
-1) The GitHub general public license is similar to the licenses noted above, because they both allow for open access of information provided in a repository, which includes information like code, plans, issues, and contributors' information.
-2) The GNU General Public License allows other people from the internet to change and edit versions of the code in order to have new suggestions from others on the internet.
+1. The GitHub general public license is similar to the licenses noted above, because they both allow for open access of information provided in a repository, which includes information like code, plans, issues, and contributors' information.
+2. The GNU General Public License allows other people from the internet to change and edit versions of the code in order to have new suggestions from others on the internet.
 
 **5.6**
-1) A PII that I have seen on project in CompSci Principles is in the ReadMe where the contributors are listed. There, the name of the contributor and their github id is provided.
-2) PII can be very helpful in certain situations. However, it can be very dangerous if it is open information provided to the public. My exposure for PII is mainly with social media, which is common for the younger generation.
-3) Good passwords are several characters long, with a wide variety of characters. Bad passwords are very short, very guessable, or maybe very forgettable for the user to remember. Another step that is used to assist in authentication is a verification code sent to a user's phone number or email.
-4) Symmetric encryption is a way for you to encrypt a message so that only you and an intended recipient can read it. It uses a secret key, the only key, that is used to both encrypt and decrypt electronic information. Asymmetric encryption is a process that uses a pair of related keys - one public and one private key - to encrypt and decrypt a message and protect if from an unauthorized access or use.
-5) An example of encryption used in deployment is having the deployment manager input a key pair to deploy new code.
-6) A phishing scheme I learned about was with viruses on certain websites. Phishing schemes occur when an attacker dupes a victim into opening an email, instant message, or text message in order to steal personal information.
+1. A PII that I have seen on project in CompSci Principles is in the ReadMe where the contributors are listed. There, the name of the contributor and their github id is provided.
+2. PII can be very helpful in certain situations. However, it can be very dangerous if it is open information provided to the public. My exposure for PII is mainly with social media, which is common for the younger generation.
+3. Good passwords are several characters long, with a wide variety of characters. Bad passwords are very short, very guessable, or maybe very forgettable for the user to remember. Another step that is used to assist in authentication is a verification code sent to a user's phone number or email.
+4. Symmetric encryption is a way for you to encrypt a message so that only you and an intended recipient can read it. It uses a secret key, the only key, that is used to both encrypt and decrypt electronic information. Asymmetric encryption is a process that uses a pair of related keys - one public and one private key - to encrypt and decrypt a message and protect if from an unauthorized access or use.
+5. An example of encryption used in deployment is having the deployment manager input a key pair to deploy new code.
+6. A phishing scheme I learned about was with viruses on certain websites. Phishing schemes occur when an attacker dupes a victim into opening an email, instant message, or text message in order to steal personal information.
