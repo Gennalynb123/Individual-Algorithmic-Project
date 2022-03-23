@@ -4,7 +4,7 @@
 
 | Task | Replit Runtime Link | Code Commit | 
 | --- | --- | --- |
-| Fibonacci | Replit runtime | Commit |
+| Organized menu | [Replit runtime](https://replit.com/@GennalynBongola/Menu-Weeks-1-3#main.py) | Commit |
 
 <br>
 
