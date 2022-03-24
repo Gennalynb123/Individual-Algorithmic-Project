@@ -52,7 +52,7 @@ Essential Knowledge:
 ### GitHub Actions:
 **5.5**
 1. The GitHub general public license is similar to the licenses noted above, because they both allow for open access of information provided in a repository, which includes information like code, plans, issues, and contributors' information.
-2. The GNU General Public License allows other people from the internet to change and edit versions of the code in order to have new suggestions from others on the internet.
+2. I chose the open source MIT license because
 
 **5.6**
 1. A PII that I have seen on project in CompSci Principles is in the ReadMe where the contributors are listed. There, the name of the contributor and their github id is provided.

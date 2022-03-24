@@ -1,21 +1,10 @@
-row1 = "qwertyuiop"
-row2 = "asdfghjkl"
-row3 = "zxcvbnm"
 
-def keyboard(row1):
-    print(row1)
-
-    temp = row2
-    row1 = temp
-
-    print(row1)
-
-    temp = row3
-    row1 = temp
-
-    print(row1)
+#for loop to print each row
+def number():
+    #list containing each row of matrix
+    numbers = [ [1,2,3],[4,5,6],[7,8,9] ]
+    for i in numbers:
+        print(i)
 
 if __name__ == "__main__":
-    keyboard(row1)
-
-
+    number()

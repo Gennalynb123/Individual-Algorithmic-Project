@@ -7,14 +7,37 @@ import funcy
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
 main_menu = [
-    ["Swap", "swap.py"],
-    ["Tree", "Tree.py"],
-    ["Boat", "animation.py"],
+    #["Week 0", "palindrome.py"],
+    #["Week 1", "palindrome.py"],
+    #["Week 2", "palindrome.py"],
+
+
+    #["InfoDB Lists/Loops", "ListLoops.py"],
+
 ]
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
-sub_menu = [
-    ["Keypad", "matrix.py"],
+
+
+sub_menu1 = [
+    ["Tree", "tree.py"],
+    ["Swap", "swap.py"],
+    ["Tree", "tree.py"],
+    ["Animation", "animation.py"],
+    ["Keypad", "keypad.py"],
+]
+
+sub_menu2 = [
+    ["Fibonacci", "fibonacci.py"],
+    ["InfoDB lists/loops (not working)", "infoDB.py"],
+
+]
+
+sub_menu3 = [
+    ["Factorial", ".py"],
+    ["Math function", ".py"],
+    ["Palindrome (not working)", "palindrome.py"],
+
 ]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
@@ -26,7 +49,11 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Other", submenu])
+    menu_list.append(["Week 0", submenu1])
+    menu_list.append(["Week 1", submenu2])
+    menu_list.append(["Week 2", submenu3])
+
+    #create new sub menu and name it something different
     buildMenu(title, menu_list)
 # def submenu
 # using sub menu list above:
@@ -34,6 +61,19 @@ def menu():
 def submenu():
     title = "Function Submenu" + banner
     buildMenu(title, sub_menu)
+
+def submenu1():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu1)
+
+def submenu2():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu2)
+
+def submenu3():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu3)
+
 def buildMenu(banner, options):
     # header for menu
     print(banner)
