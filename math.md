@@ -4,7 +4,7 @@
 
 | Task | Replit Runtime Link | Code Commit | 
 | --- | --- | --- |
-| Palindrome | Replit runtime | Commit |
+| Math Function | [Replit runtime](https://replit.com/@GennalynBongola/Math-Function) | Commit |
 
 <br>
 

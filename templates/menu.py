@@ -34,7 +34,7 @@ sub_menu2 = [
 ]
 
 sub_menu3 = [
-    ["Factorial", ".py"],
+    ["Factorial (not working)", "factorial.py"],
     ["Math function", ".py"],
     ["Palindrome (not working)", "palindrome.py"],
 

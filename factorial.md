@@ -4,7 +4,7 @@
 
 | Task | Replit Runtime Link | Code Commit | 
 | --- | --- | --- |
-| Palindrome | Replit runtime | Commit |
+| Factorial Function | [Replit runtime](https://replit.com/@GennalynBongola/Factorial-Function) | Commit |
 
 <br>
 
