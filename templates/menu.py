@@ -1,4 +1,4 @@
-# menuy.py - function style menu
+3# menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
 import funcy
@@ -29,14 +29,14 @@ sub_menu1 = [
 
 sub_menu2 = [
     ["Fibonacci", "fibonacci.py"],
-    ["InfoDB lists/loops (not working)", "infoDB.py"],
+    ["InfoDB lists/loops (not working on menu)", "infoDB.py"],
 
 ]
 
 sub_menu3 = [
-    ["Factorial (not working)", "factorial.py"],
-    ["Math function", ".py"],
-    ["Palindrome (not working)", "palindrome.py"],
+    ["Factorial (not working on menu)", "factorial.py"],
+    ["Math function (not working on menu)", "math.py"],
+    ["Palindrome (not working on menu)", "palindrome.py"],
 
 ]
 # Menu banner is typically defined by menu owner
