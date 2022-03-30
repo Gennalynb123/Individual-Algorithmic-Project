@@ -12,23 +12,23 @@ main_menu = [ ]
 
 data_menu = [
   
-    ["Swap", "python_menu_challenges/swap.py"],
-    ["Keypad", "python_menu_challenges/keypad.py"],
-    ["InfoDB lists/loops (not working on menu)", "python_menu_challenges/infoDB.py"],
+    ["Swap", "python_menu_challenges/week_0/swap.py"],
+    ["Keypad", "python_menu_challenges/week_0/keypad.py"],
+    ["Lists/loops", "python_menu_challenges/week_1/infoDB.py"],
 ]
 
 math_menu = [
-    ["Fibonacci", "python_menu_challenges/fibonacci.py"],
-    ["Factorial (not working on menu)", "python_menu_challenges/factorial.py"],
-    ["Math function (not working on menu)", "python_menu_challenges/math.py"],
-    ["Palindrome (not working on menu)", "python_menu_challenges/palindrome.py"],
+    ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
+    ["Factorial (not working on menu)", "python_menu_challenges/week_2/factorial.py"],
+    ["Math function (not working on menu)", "python_menu_challenges/week_2/math.py"],
+    ["Palindrome (not working on menu)", "python_menu_challenges/week_2/palindrome.py"],
 
 ]
 
 drawing_menu = [
     
-    ["Tree", "python_menu_challenges/tree.py"],
-    ["Animation", "python_menu_challenges/animation.py"],
+    ["Tree", "python_menu_challenges/week_0/tree.py"],
+    ["Animation", "python_menu_challenges/week_0/animation.py"],
     
 
 ]
