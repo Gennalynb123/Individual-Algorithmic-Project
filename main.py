@@ -1,31 +1,39 @@
-main_menu = []
-
+# menuy.py - function style menu
+# Imports typically listed at top
+# each import enables us to use logic that has been abstracted to other files and folders
+import funcy
+# Main list of [Prompts, Actions]
+# Two styles are supported to execute abstracted logic
+# 1. file names will be run by exec(open("filename.py").read())
+# 2. function references will be executed directly file.function()
+main_menu = [ ]
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
-data_sub_menu = [
-    ["Swap", "python_menu_challenges/week_0/swap.py"],
-    ["Keypad", "python_menu_challenges/week_0/keypad.py"],
-    ["Lists", "python_menu_challenges/week_1/lists_and_loops.py"]
+
+data_menu = [
+  
+    ["Swap", "python_menu_challenges/swap.py"],
+    ["Keypad", "python_menu_challenges/keypad.py"],
+    ["InfoDB lists/loops (not working on menu)", "python_menu_challenges/infoDB.py"],
 ]
 
-math_sub_menu = [
-    ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
-    ["Factorials", "python_menu_challenges/week_2/factorial.py"],
-    ["Factors", "python_menu_challenges/week_2/factors_num.py"],
-    ["Palidrome", "python_menu_challenges/week_2/palidrome.py"]
-  ]
+math_menu = [
+    ["Fibonacci", "python_menu_challenges/fibonacci.py"],
+    ["Factorial (not working on menu)", "python_menu_challenges/factorial.py"],
+    ["Math function (not working on menu)", "python_menu_challenges/math.py"],
+    ["Palindrome (not working on menu)", "python_menu_challenges/palindrome.py"],
 
-patterns_sub_menu = [
-    ["Christmas", "python_menu_challenges/week_0/christmastree.py"],
-    ["Ship", "python_menu_challenges/week_0/ship.py"],
+]
+
+drawing_menu = [
     
-  
-   
-  ]
-# def menu
-# using main_menu list:
-# 1. main menu and submenu reference are created [Prompts, Actions]
-# 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
+    ["Tree", "python_menu_challenges/tree.py"],
+    ["Animation", "python_menu_challenges/animation.py"],
+    
+
+]
+
+
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nplease pick one\n{border}"
@@ -38,22 +46,22 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Data", data])
     menu_list.append(["Math", math])
-    menu_list.append(["Patterns", pattern])
+    menu_list.append(["Drawings", draw])
     buildMenu(title, menu_list)
 # def submenu
 # using sub menu list above:
 # sub_menu works similarly to menu()
 def data():
     title = "function submenu" + banner
-    buildMenu(title, data_sub_menu)
+    buildMenu(title, data_menu)
 
 def math():
     title = "Function Submenu" + banner
-    buildMenu(title, math_sub_menu)
+    buildMenu(title, math_menu)
 
-def pattern():
+def draw():
     title = "Function Submenu" + banner
-    buildMenu(title, patterns_sub_menu)
+    buildMenu(title, drawing_menu)
   
 def buildMenu(banner, options):
     # header for menu
@@ -116,5 +124,3 @@ if __name__ == "__main__":
     menu()
 
 #test
-
-
