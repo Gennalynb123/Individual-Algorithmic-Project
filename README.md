@@ -12,3 +12,11 @@
 ### Week 1 [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/projects/1#card-79175077)
 
 ### Week 2 [Review Ticket](https://github.com/Gennalynb123/Individual-Algorithmic-Project/projects/1#card-79444708)
+
+
+| Week 0  | Week 1 | Week 2 |
+| ------------- | ------------- | ----|
+| Swap  | Fibonacci  | Factorial
+| Keypad  | Lists and Loops  | Odd Numbers|
+| Tree | | Palidrome|
+|Ship | | |
