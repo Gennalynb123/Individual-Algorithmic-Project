@@ -1,30 +1,14 @@
-
-# Python 3 program to find
-# factorial of given number
-def factorial(n):
-
-    # Checking the number
-    # is 1 or 0 then
-    # return 1
-    # other wise return
-    # factorial
-    if (n==1 or n==0):
-
-        return 1
-
+class Factorial:
+  def __init__(self):
+    self.final = [1]
+  def __call__(self,n):
+    if n < len(self.final):
+      return 1
     else:
+      f_number = n * self(n-1)
+      self.final.append(f_number)
+    return self.final[n]
 
-        return (n * factorial(n - 1))
-
-def Test():
-    # Driver Code
-    num = 5;
-    print("number : ",num)
-    print("Factorial : ",factorial(num))
-
-
-def drive():
-    Test()
-
-if __name__ == "__main__":
-    drive()
+obj = Factorial()
+n = int(input("n = "))
+print(obj(n))

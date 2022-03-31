@@ -6,44 +6,32 @@ import funcy
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
-
-
-
-import python_menu_challenges.week_1.infoDB as infoDB
-import python_menu_challenges.week_2.factorial as factorial
-import python_menu_challenges.week_2.math as math
-import python_menu_challenges.week_2.palindrome as palindrome
-import python_menu_challenges.week_0.animation as animation
-
 main_menu = [ ]
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 
-
 data_menu = [
-  
+
     ["Swap", "python_menu_challenges/week_0/swap.py"],
     ["Keypad", "python_menu_challenges/week_0/keypad.py"],
-    ["Lists/loops", infoDB.drive],
+    ["Lists/loops", "python_menu_challenges/week_1/infoDB.py"],
 ]
 
 math_menu = [
     ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
-    ["Factorial (testing 5)", factorial.drive],
-    ["Math function (see if 10 is prime or not)", math.drive],
-    ["Palindrome", palindrome.drive],
+    ["Factorial (not working on menu)", "python_menu_challenges/week_2/factorial.py"],
+    ["Math function (not working on menu)", "python_menu_challenges/week_2/math.py"],
+    ["Palindrome (not working on menu)", "python_menu_challenges/week_2/palindrome.py"],
 
 ]
 
 drawing_menu = [
-    
+
     ["Tree", "python_menu_challenges/week_0/tree.py"],
-    ["Animation", animation.drive],
-    
+    ["Animation", "python_menu_challenges/week_0/animation.py"],
+
 
 ]
-
-
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nplease pick one\n{border}"
@@ -64,11 +52,9 @@ def menu():
 def data():
     title = "function submenu" + banner
     buildMenu(title, data_menu)
-
 def math():
     title = "Function Submenu" + banner
     buildMenu(title, math_menu)
-
 def draw():
     title = "Function Submenu" + banner
     buildMenu(title, drawing_menu)
@@ -132,5 +118,4 @@ def buildMenu(banner, options):
     buildMenu(banner, options)  # recursion, start menu over again
 if __name__ == "__main__":
     menu()
-
 #test
