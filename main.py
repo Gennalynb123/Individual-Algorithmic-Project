@@ -19,9 +19,9 @@ data_menu = [
 
 math_menu = [
     ["Fibonacci", "python_menu_challenges/week_1/fibonacci.py"],
-    ["Factorial (not working on menu)", "python_menu_challenges/week_2/factorial.py"],
-    ["Math function (not working on menu)", "python_menu_challenges/week_2/math.py"],
-    ["Palindrome (not working on menu)", "python_menu_challenges/week_2/palindrome.py"],
+    ["Factorial", "python_menu_challenges/week_2/factorial.py"],
+    ["Odd Number Checker", "python_menu_challenges/week_2/math.py"],
+    ["Palindrome", "python_menu_challenges/week_2/palindrome.py"],
 
 ]
 
