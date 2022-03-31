@@ -25,7 +25,7 @@ class Fibonacci:
             self.set_data(f[0])
             f = [f[1], f[0] + f[1]]
             limit -= 1
-
+     
     """Method/Function to set Fibonacci data: list, dict, and dictID are instance variables of Class"""
     def set_data(self, num):
         self._list.append(num)
@@ -53,14 +53,18 @@ class Fibonacci:
 # Tester Code
 if __name__ == "__main__":
     '''Value for testing'''
-    n = 20
+    n = 10
+    total = 0
     '''Constructor of Class object'''
     fibonacci = Fibonacci(n)
 
+    print("n = ", n)
     '''Using getters to obtain data from object'''
     print(f"Fibonacci number for {n} = {fibonacci.number}")
     print(f"Fibonacci series for {n} = {fibonacci.list}")
 
     '''Using method to get data from object'''
-    for i in range(n):
-        print(f"Fibonacci sequence {i + 1} = {fibonacci.get_sequence(i)}")
+    
+    for i in range(len(fibonacci.list)):
+      total = total + fibonacci.list[i]
+    print("the sum of the first", n, "terms is", total)

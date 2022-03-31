@@ -27,7 +27,7 @@ math_menu = [
 
 drawing_menu = [
 
-    ["Tree", "python_menu_challenges/week_0/tree.py"],
+    ["Tree", "python_menu_challenges/week_0/Tree.py"],
     ["Animation", "python_menu_challenges/week_0/animation.py"],
 
 
