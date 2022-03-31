@@ -22,5 +22,9 @@ def Test():
     print("number : ",num)
     print("Factorial : ",factorial(num))
 
-if __name__ == "__main__":
+
+def drive():
     Test()
+
+if __name__ == "__main__":
+    drive()

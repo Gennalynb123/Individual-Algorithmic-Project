@@ -1,3 +1,6 @@
+num = 10
+
+
 # Define a class for Checking prime number
 class Check :
 
@@ -20,18 +23,16 @@ class Check :
         return True
 
 
-# Main code
-if __name__ == "__main__" :
+def drive():
 
     # input number
-    num = 11
-
     # make an object of Check class
     check_prime = Check(num)
-
     # method calling
     print(check_prime.isPrime())
 
-    num = 14
-    check_prime = Check(num)
-    print(check_prime.isPrime())
+
+
+
+if __name__ == "__main__":
+    drive()

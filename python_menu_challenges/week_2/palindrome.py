@@ -1,7 +1,9 @@
 import re
 
 
-class Palindrome:
+
+
+class thing:
     # palindrome initializer method
     def __init__(self, candidate):
         # input values
@@ -55,26 +57,24 @@ class Palindrome:
 
 #Palindrome Tester code with 3 words at time
 #if __name__ == "__main__":
- #   word1 = input("Enter a word: ")
- #   word2 = input("Enter another word: ")
- #   word3 = input("Enter another another word: ")
- #   ls = [Palindrome(word1), Palindrome(word2), Palindrome(word3)]
+#   word1 = input("Enter a word: ")
+#   word2 = input("Enter another word: ")
+#   word3 = input("Enter another another word: ")
+#   ls = [Palindrome(word1), Palindrome(word2), Palindrome(word3)]
 
-  #  for l in ls:
-  #      print(l.candidate, l.isPalindrome, l.tests, l.analysis)
+#  for l in ls:
+#      print(l.candidate, l.isPalindrome, l.tests, l.analysis)
 
 
 # Tester Code (initial referencing fibonaachi code
-if __name__ == "__main__":
-    '''Value for testing'''
-    candidate = "racecar"
-    '''Constructor of Class object'''
-    Palindrome = Palindrome(candidate)
 
-    '''Using getters to obtain data from object'''
+
+def drive():
+    candidate = "racecar"
+    Palindrome = thing(candidate)
     print(f"The word is {candidate}")
     print(f"Is a palindrome?: {Palindrome._is_a_palindrome}")
     print(f"{Palindrome.analysis}")
 
-
-
+if __name__ == "__main__":
+    drive()
