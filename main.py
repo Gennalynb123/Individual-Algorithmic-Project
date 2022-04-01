@@ -2,6 +2,12 @@
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
 import funcy
+
+import python_menu_challenges.week_0.animation as animation
+import python_menu_challenges.week_0.keypad as keypad
+
+
+
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -13,7 +19,7 @@ main_menu = [ ]
 data_menu = [
 
     ["Swap", "python_menu_challenges/week_0/swap.py"],
-    ["Keypad", "python_menu_challenges/week_0/keypad.py"],
+    ["Keypad", keypad.drive],
     ["Lists/loops", "python_menu_challenges/week_1/infoDB.py"],
 ]
 
@@ -28,7 +34,7 @@ math_menu = [
 drawing_menu = [
 
     ["Tree", "python_menu_challenges/week_0/Tree.py"],
-    ["Animation", "python_menu_challenges/week_0/animation.py"],
+    ["Animation", animation.drive],
 
 
 ]

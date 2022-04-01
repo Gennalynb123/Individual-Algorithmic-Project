@@ -1,4 +1,4 @@
-def holidaybush(n):
+def drive(n):
     z = n - 1
     x = 1
     for i in range(n):
@@ -8,4 +8,4 @@ def holidaybush(n):
 
 
 if __name__ == "__main__":
-    holidaybush(5)
+    drive(5)
