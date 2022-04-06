@@ -7,7 +7,7 @@
 | CSP Create Task Requirements  | 
 | ------------- |
 | Video |  
-| [Write Up](https://gennalynb123.github.io/Individual-Algorithmic-Project/CreateTaskNew) | 
+| [Write Up](https://gennalynb123.github.io/Individual-Algorithmic-Project/WriteUp) | 
 | [Runtime](https://scratch.mit.edu/projects/670317288/) | 
 
 
