@@ -2,6 +2,8 @@
 
 [Scratch Project Link](https://scratch.mit.edu/projects/670317288/)
 
+{% include task.html %}
+
 ![image](https://user-images.githubusercontent.com/89223650/161892028-217b6f06-5e49-42ab-9818-1c6f0d81406e.png)
 
 | CSP Create Task Requirements  | 
