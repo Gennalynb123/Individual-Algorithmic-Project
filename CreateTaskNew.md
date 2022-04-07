@@ -8,7 +8,7 @@
 
 | CSP Create Task Requirements  | 
 | ------------- |
-| Video |  
+| [Video](https://drive.google.com/file/d/1cjhF79OJrX_DHhObhWrd6xcbHfFfmah8/view?usp=sharing) |  
 | [Write Up](https://gennalynb123.github.io/Individual-Algorithmic-Project/WriteUp) | 
 | [Runtime](https://scratch.mit.edu/projects/670317288/) | 
 
